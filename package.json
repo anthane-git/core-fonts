@@ -1,15 +1,15 @@
 {
-  "name": "@anthane/core-fonts",
-  "version": "1.0.0",
-  "description": "Font repository of Anthane Core design system",
-  "main": "index.js",
-  "publishConfig": {
-    "access": "public",
-    "@anthane:registry": "https://registry.npmjs.org/"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "BlazeIsClone",
-  "license": "GPL-2.0"
+	"name": "@anthane/core-fonts",
+	"version": "1.0.0",
+	"description": "Font repository of Anthane Core design system",
+	"main": "index.js",
+	"publishConfig": {
+		"access": "public",
+		"@anthane:registry": "https://registry.npmjs.org/"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 0"
+	},
+	"author": "BlazeIsClone",
+	"license": "GPL-2.0"
 }
