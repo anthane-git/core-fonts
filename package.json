@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/core-fonts",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Font repository of Anthane Core design system",
 	"main": "index.js",
 	"publishConfig": {
